@@ -12,10 +12,10 @@
     <ul>
       <li>
         <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router"
+          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex"
           target="_blank"
           rel="noopener"
-          >router</a
+          >vuex</a
         >
       </li>
       <li>
